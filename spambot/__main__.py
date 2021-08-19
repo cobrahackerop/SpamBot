@@ -54,7 +54,7 @@ from telegram.utils.helpers import escape_markdown
 
 # DEFAULTUSER = str(OWNER_USERNAME)
 
-# help_img = "https://telegra.ph/file/6e92103071aa47ee7023e.mp4"
+# help_img = "https://telegra.ph/file/68ba3f69f145217b02664.jpg"
 # dev_caption = """
 # **░░░▒▒▓ᏂᏋᏝᎮ ᎷᏋᏁᏬ▓▒▒░░░**
 # **/addsudo:** Use this while replying to anyone will add him as a sudo user!!
@@ -62,7 +62,7 @@ from telegram.utils.helpers import escape_markdown
 # **/leave <chat id>:** Bot will leave that chat!!
 # **/updates:** Check new updates and updates the bot!!
 # **/restart:** Restarts the bot!!(Too fast!! **Supersonic**)
-# [©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
+# [©️](https://telegra.ph/file/68ba3f69f145217b02664.jpg) @cobra_suportr
 # """
 # spam_caption = """
 # **░░░▒▒▓ᏂᏋᏝᎮ ᎷᏋᏁᏬ▓▒▒░░░**
@@ -78,13 +78,13 @@ from telegram.utils.helpers import escape_markdown
 # Syntax: /replyraid (replying to anyone)
 # **/dreplyraid:** Deactivates reply raid on the user!!
 # Syntax: /dreplyraid (replying to anyone)
-# [©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
+# [©️](https://telegra.ph/file/68ba3f69f145217b02664.jpg) @cobra_suportr
 # """
-# start_img = "https://telegra.ph/file/1312f063f0395fc933edd.mp4"
+# start_img = "https://telegra.ph/file/68ba3f69f145217b02664.jpg"
 # help_caption = """
 # **Hᴇʏ ᴍᴀsᴛᴇʀ,
 # ʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇss ᴛʜᴇ ᴡʜᴏʟᴇ ʜᴇʟᴘ ᴍᴇɴᴜ ʙʏ ᴜsɪɴɢ ᴛʜᴇ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴs!**
-# [©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
+# [©️](https://telegra.ph/file/68ba3f69f145217b02664.jpg) @cobra_suportr
 # """
 
 
@@ -108,14 +108,14 @@ from telegram.utils.helpers import escape_markdown
 # startbuttons = [
 #     [
 #         InlineKeyboardButton(
-#             text="Repo", url="https://github.com/Gladiators-Projects/SpamBot"),
+#             text="Repo", url="https://t.me/Xd_Lif"),
 #         InlineKeyboardButton(
-#             text="Support", url=f"https://t.me/Gladiators_Support"
+#             text="Support", url=f"https://t.me/cobra_suportr"
 #         ),
 #     ],
 #     [
 #         InlineKeyboardButton(
-#             text="Github Organisation", url="https://github.com/Gladiators-Projects"),
+#             text="Github Organisation", url="https://t.me/Xd_Lif"),
 #     ]
 # ]
   
